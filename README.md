@@ -6,10 +6,6 @@ This is the readme file for the final of the Wireless Mobile Software Engineerin
 * Adam Halim Waskito
 * Ryan Adiguna
 
-## Proposal
-
-Cash Master is an application to manage your personal finances, from tracking spending, categorizing, to dividing your income to separate functions such as: 50% for monthly bills, 20% for savings, and 30% for entertainment. Data can be viewed as daily, weekly, or yearly, depending on user choice.
-
 ## Problem
 
 Financial management is a necessity in a capital-based economy, from finding the correct living situation, saving for retirement, or spending money on the department store, money is a huge part of our lives, and keeping up to date with your budget might be hard for most people.
