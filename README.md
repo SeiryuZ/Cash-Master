@@ -8,18 +8,20 @@ This is the readme file for the final of the Wireless Mobile Software Engineerin
 
 ## Problem
 
-Financial management is a necessity in a capital-based economy, from finding the correct living situation, saving for retirement, or spending money on the department store, money is a huge part of our lives, and keeping up to date with your budget might be hard for most people.
+Financial management is a necessity for a bright and stable future, from finding the correct living situation, saving for retirement, or spending money on the department store, money is a huge part of our lives, and keeping up to date with your budget might be hard for most people. Financial management should be practiced from a young age to ensure a good future for our country, which, from our point of view, are not being thought that well.
+
+Schools taught us how to do calculus, to speak french, and about ancient rocks in borneo, but rarely do they taught us about taxes, or investing, or budgeting, and while taxes and investments can be taught later in life, managing your spending needs to be taught as early as possible.
 
 ## Proposed Solution
 
-With the Cash Master, you could insert your spendings and income into your app, put them in categories, and Cash Master will inform you of your financial status within microseconds.
+With the Cash Master, you could insert your spendings and income into your app, put them in categories, and Cash Master will inform you of your financial status within microseconds. With intuitive design, using the app will be relaxing while also helpful, and will enforce a good habit of managing your budget.
 
 ### Core Features
 
 * Tracks user's income & spending
-* Divides income into categories: 50% for monthly bills, 20% for savings, and 30% for entertainment
 * Reminding user of overspending
-* Helps user calculate necessary spending
+* Helps user create a spending plan
+* Divides income into seperate "Jars": 50% for monthly bills, 20% for savings, and 30% for entertainment
 
 ### Related work
 
