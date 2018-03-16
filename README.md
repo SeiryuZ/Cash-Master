@@ -25,7 +25,7 @@ With the Cash Master, you could insert your spendings and income into your app, 
 
 ### Related work
 
-There are no financial manager app that is easy to use nor with the functionalities that we have in the market right now. That is part of why the idea to make this app appeared.
+According to our opinion and standards, there are no financial manager app that is easy to use nor with the functionalities that we would have wanted in the market right now. That is part of why the idea to make this app appeared.
 
 ### Responsibilities
 
